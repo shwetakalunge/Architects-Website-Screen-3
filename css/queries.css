@@ -90,6 +90,10 @@
         padding: 5px 0px 10px 0px;
         font-size: 8px;
     }
+   h1 {
+        font-size: 30px;
+        font-weight: 100
+    }
 
 }
 
@@ -106,6 +110,7 @@
 
     h1 {
         font-size: 30px;
+        font-weight: 100
     }
 
     h3 {
